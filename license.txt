@@ -1,0 +1,6 @@
+alpha
+bravo
+delta
+echo
+foxtrot
+gmail
